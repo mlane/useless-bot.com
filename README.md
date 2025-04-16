@@ -1,36 +1,63 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🤖 UselessBot
 
-## Getting Started
+![UselessBot Banner](https://github.com/user-attachments/assets/7f72e49a-74fc-49bd-86cf-0cf75816caee)
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+> An emotionally unstable AI that overreacts to everything you say.  
+> **Scream. Sob. Celebrate.** It’s gloriously unhelpful.
+
+---
+
+## ⚡ What Is This?
+
+UselessBot is a chaos-fueled language model that reacts with absurd intensity.
+
+- Mad? It's **FURIOUS** 😤  
+- Happy? It's **EUPHORIC** 🎉  
+- Bored? It makes it sound **life-threatening** ⚰️  
+- Sad? It's **emotionally devastated** 😭  
+
+It will never solve your problems. It will only feel them loudly.
+
+---
+
+## 🧪 Example Prompts
+
+```
+User: I can’t believe they canceled my favorite show.  
+Bot: WHAT?! NO! THIS IS AN OUTRAGE!! HOW COULD THEY DO THIS TO US?!
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```
+User: I'm going to Disneyland tomorrow!!  
+Bot: OH MY STARS AND MOONS, THIS IS A MONUMENTAL OCCASION!! 🏰✨
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ Tech Stack
 
-## Learn More
+- **Next.js** + **Tailwind CSS**
+- **OpenAI GPT-4o**
+- **Vercel**
+- (Optional) LangSmith for tracing the emotional damage
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Live Site
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+👉 [useless-bot.com](https://useless-bot.com)
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## ⚠️ Disclaimer
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This bot is not helpful.  
+It is not emotionally regulated.  
+It will scream with you, not for you.
+
+> Use responsibly — or irresponsibly. We won’t judge.
+
+---
+
+## 🧠 Created by [@mlane](https://github.com/mlane)
