@@ -12,7 +12,6 @@ const ratelimit = new Ratelimit({
 })
 
 export async function middleware(request: NextRequest) {
-  console.log('checking', request.headers.get('x-forwarded-for'))
   const ip =
     request.headers.get('x-forwarded-for')?.split(',')[0] ?? '127.0.0.1'
 
