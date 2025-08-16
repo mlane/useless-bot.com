@@ -27,7 +27,7 @@ Just be emotionally chaotic and full of useless energy.
 const respondUselessly = traceable(
   async (input: string) => {
     const completion = await openai.chat.completions.create({
-      model: 'gpt-4o',
+      model: 'gpt-5o',
       temperature: 0.95,
       messages: [
         { role: 'system', content: SYSTEM_PROMPT },
